@@ -1,0 +1,11 @@
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\obj\Debug\netcoreapp2.1\DesignPatternStrategy.csprojAssemblyReference.cache
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\obj\Debug\netcoreapp2.1\DesignPatternStrategy.csproj.CoreCompileInputs.cache
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\obj\Debug\netcoreapp2.1\DesignPatternStrategy.AssemblyInfoInputs.cache
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\obj\Debug\netcoreapp2.1\DesignPatternStrategy.AssemblyInfo.cs
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\bin\Debug\netcoreapp2.1\DesignPatternStrategy.deps.json
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\bin\Debug\netcoreapp2.1\DesignPatternStrategy.runtimeconfig.json
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\bin\Debug\netcoreapp2.1\DesignPatternStrategy.runtimeconfig.dev.json
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\bin\Debug\netcoreapp2.1\DesignPatternStrategy.dll
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\bin\Debug\netcoreapp2.1\DesignPatternStrategy.pdb
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\obj\Debug\netcoreapp2.1\DesignPatternStrategy.dll
+C:\Users\lucas.melo\source\repos\DesignPatternStrategy\DesignPatternStrategy\obj\Debug\netcoreapp2.1\DesignPatternStrategy.pdb
