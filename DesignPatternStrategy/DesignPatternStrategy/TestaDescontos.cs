@@ -17,6 +17,7 @@ namespace DesignPatternStrategy
             double desconto = calculador.Calcula(orcamento);
 
             Console.WriteLine(desconto);
+            Console.ReadKey();
         }
     }
 }
