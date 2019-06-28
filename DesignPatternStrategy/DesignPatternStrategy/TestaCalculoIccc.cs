@@ -6,9 +6,9 @@ namespace DesignPatternStrategy
 {
     class TestaCalculoIccc
     {
-        static void Main(String[] args)
+        /*static void Main(String[] args)
         {
-            Imposto iccc = new Iccc();
+            /*Imposto iccc = new Iccc();
             Orcamento orcamento1 = new Orcamento(3000.1);
 
             CalculadorDeImposto calculador = new CalculadorDeImposto();
@@ -17,6 +17,8 @@ namespace DesignPatternStrategy
             calculador.RealizaCalculo(orcamento1, iccc);
 
             Console.ReadKey();
+           
         }
+        */
     }
 }

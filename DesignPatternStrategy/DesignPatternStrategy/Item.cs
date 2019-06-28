@@ -4,19 +4,15 @@ using System.Text;
 
 namespace DesignPatternStrategy
 {
-    public class Orcamento
+    public class Item
     {
+        public String Nome { get; private set; }
         public double Valor { get; private set; }
-        public IList<Item> Itens { get; private set; }
 
-        public Orcamento(double valor)
+        public Item(String nome, double valor)
         {
+            this.Nome = nome;
             this.Valor = valor;
-        }
-
-        public void AdicionaItem(Item item)
-        {
-            Itens.Add(item);
         }
     }
 }
