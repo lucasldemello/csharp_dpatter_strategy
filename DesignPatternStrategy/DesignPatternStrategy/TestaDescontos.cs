@@ -10,9 +10,9 @@ namespace DesignPatternStrategy
         {
             CalculadorDeDescontos calculador = new CalculadorDeDescontos();
 
-            Orcamento orcamento = new Orcamento(7000.0);
-            orcamento.AdicionaItem(new Item("XBOX", 4000.0));
-            orcamento.AdicionaItem(new Item("ps4", 3000.0));
+            Orcamento orcamento = new Orcamento(1000.0);
+            orcamento.AdicionaItem(new Item("CANETA", 400.0));
+            orcamento.AdicionaItem(new Item("LAPIS", 600.0));
 
             double desconto = calculador.Calcula(orcamento);
 
