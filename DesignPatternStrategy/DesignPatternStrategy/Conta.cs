@@ -8,6 +8,8 @@ namespace DesignPatternStrategy
     {
         public double Saldo { get; private set; }
         public String Titular { get; private set; }
+        public String Numero { get; private set; }
+        public String Agencia { get; private set; }
         public void Deposita(double valor)
         {
             this.Saldo += valor;
